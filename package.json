@@ -1,0 +1,19 @@
+{
+  "name": "projetpvp",
+  "version": "1.0.0",
+  "description": "projet pierre & vacances",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorPiot/Test.git"
+  },
+  "author": "victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorPiot/Test/issues"
+  },
+  "homepage": "https://github.com/VictorPiot/Test#readme"
+}
